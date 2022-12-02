@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/swapna_scorpion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swapna_scorpion" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swapna dip mandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapna dip mandal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/swapna-dip-mandal-57a990251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapna dip mandal" height="30" width="40" /></a>
 <a href="https://instagram.com/swapna_dip_mandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swapna_dip_mandal" height="30" width="40" /></a>
 </p>
 
